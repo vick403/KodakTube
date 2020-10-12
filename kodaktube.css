@@ -1,0 +1,22 @@
+.submit{
+    text-align: center;
+}
+.search{
+    text-align: center;
+}
+header{
+    border:solid black 2px;
+    border-radius: 2%;
+}
+.name{
+    text-align: left;
+    font-family:'Sansita Swashed', cursive;
+}
+
+video{
+    height: 700px;
+    width: 700px;
+    padding: 0%;
+    position: relative;
+    margin-top: 0px;
+}
